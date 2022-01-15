@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Alrayes
-- 👀 I’m interested in Web Devleoping, Python, AI.
-- 🌱 I’m currently learning Software Engineering at KSU.
+- 👀 I’m interested in Web Devleoping, Python and AI.
+- 🌱 I’m currently studying Software Engineering at KSU.
  
 
 <!---
