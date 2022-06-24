@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Alrayes</h1>
-<h3 align="center">👀 I’m interested in Web Developing, Python, AI and ML.</h3>
+<h3 align="center">👀 I’m interested in Data Analysis and AI.</h3>
 
 - 📫 How to reach me **hemoner1@gmail.com**
 
