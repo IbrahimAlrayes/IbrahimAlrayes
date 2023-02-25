@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Alrayes</h1>
 <h3 align="center">👀 I’m interested in Data Analysis and AI.</h3>
 
-- 📫 How to reach me **hemoner1@gmail.com**
+- 📫 How to reach me **IbrahimAlrayes0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
