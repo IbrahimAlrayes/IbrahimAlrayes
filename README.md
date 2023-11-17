@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Alrayes</h1>
-<h3 align="center">👀 I’m interested in Data Analysis and AI.</h3>
+<h3 align="center">👀 I’m interested in Data Science and AI.</h3>
 
 - 📫 How to reach me **IbrahimAlrayes0@gmail.com**
 
